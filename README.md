@@ -58,13 +58,17 @@ This project controls a light using ESP32 through a mobile application.
 
 ---
 
-### Output OFF
-![Output OFF](Output-off.jpeg)
+## Output OFF
+
+![Output OFF](Output-Off.jpeg)
 
 ---
 
-### Output ON
-![Output ON](Output-on.jpeg)
+## Output ON
+
+![Output ON](Output-On.jpeg)
+
+---
 
 ##  Developed By
 Parthiv A M
